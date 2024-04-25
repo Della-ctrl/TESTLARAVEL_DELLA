@@ -1,0 +1,5 @@
+@include('templates.sub.header')
+@include('templates.sub.navbar')
+@include('templates.sub.sidebar')
+@include('templates.sub.content')
+@include('templates.sub.footer')
